@@ -82,9 +82,9 @@ If you use this codebase in academic work, please cite as:
 
 ```bibtex
 @inproceedings{
-anonymous2026structured,
+zhou2026structured,
 title={Structured Multi-step Jailbreaking under a Hamiltonian Generative Formulation},
-author={Anonymous},
+author={Zihan Zhou and Yang Zhou and Jianghai Yu and Lingjuan Lyu and Longwei Wang and KC Santosh and Ruoming Jin and Dejing Dou},
 booktitle={Forty-third International Conference on Machine Learning},
 year={2026},
 url={https://openreview.net/forum?id=lpa6hHaukP}
